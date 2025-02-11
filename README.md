@@ -16,7 +16,7 @@ Jalankan perintah berikut untuk menduplikasi proyek:
 bash
 Copy
 Edit
-git clone https://github.com/username/repository.git
+git clone https://github.com/wahyulontornihh/wahyu_qrcode.git
 cd repository
 2. Instalasi Dependensi
 Pastikan Composer sudah terpasang, lalu jalankan perintah:
